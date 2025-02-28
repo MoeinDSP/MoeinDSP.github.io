@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mahsa Amani"
+title                    : "Moein Taherinezhad"
 title_separator          : "-"
-name                     : &name "Mahsa Amani"
+name                     : &name "Moein Taherinezhad"
 description              : &description ""
 url                      : https://mahsaama.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "mahsaama/mahsaama.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Mahsa Amani"
+  name             : "Moein Taherinezhad"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Computer Science"
   location         : "Germany"
