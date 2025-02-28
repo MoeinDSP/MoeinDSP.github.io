@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Max Planck Institute for Software systems (MPI-SWS), 2030 (expected)
+* Ph.D in Computer Science, Politecnico di Milano for Software systems (MPI-SWS), 2030 (expected)
 * M.S. in Computer Science, Saarland University, 2026 (expected)
 * B.S. in Computer Engineering, Sharif University of Technology, 2023
 * Diploma in Mathematics and Physics, National Organization for Development of Exceptional Talents (NODET), 2018
