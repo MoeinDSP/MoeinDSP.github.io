@@ -13,9 +13,9 @@ title                    : "Moein Taherinezhad"
 title_separator          : "-"
 name                     : &name "Moein Taherinezhad"
 description              : &description ""
-url                      : https://mahsaama.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://moeindsp.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mahsaama/mahsaama.github.io"
+repository               : "moeindsp/moeindsp.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,17 +25,17 @@ author:
   avatar           : "profile.png"
   name             : "Moein Taherinezhad"
   pronouns         : # example: "she/her"  
-  bio              : "M.Sc Student in Telecommunication major in Signals and Data Analysis"
+  bio              : "M.Sc Student in Signals and Data Analysis"
   location         : "Italy, Milano"
   employer         : "Politecnico di Milano"
   uri              : # URL
-  email            : "mamani@mpi-sws.org" 
+  email            : "moein.taherinezhad@mail.polimi.it" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=3FDdXroAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=sh-KHmUAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0005-3208-9286"
+  orcid            : "https://orcid.org/0009-0004-6629-5398"
   semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "mahsaama"
+  github           : "moeindsp"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "mahsa-amani-760b0518a"
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
