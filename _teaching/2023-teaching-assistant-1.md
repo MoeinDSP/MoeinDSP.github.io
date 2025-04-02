@@ -6,6 +6,10 @@ permalink: /teaching/2023-teaching-assistant-1
 venue: "Semnan University, Electrical and Computer Engineering Department"
 date: 2020-2022
 location: "Semnan, Iran"
+Courses: Signals and Systems, [Prof. Pejman Rezaei](https://scholar.google.com/citations?user=kj6yG2YAAAAJ&hl=en)
+ Principle of Communication Systems, [Dr. Ali Shahzadi](https://scholar.google.com/citations?user=GHJY61wAAAAJ&hl=en)
+ Computer Programming, [Dr. Razieh Rastgoo](https://scholar.google.com/citations?user=zfvwqc0AAAAJ&hl=en)
+
 ---
 
 I had the privilege of being a teaching assistant in the following courses:
