@@ -10,7 +10,7 @@ location: "Semnan, Iran"
 
 I had the privilege of being a teaching assistant in the following courses:
 
-* Natural Language Processing, [Dr. Ali Shahzadi](https://scholar.google.com/citations?user=GHJY61wAAAAJ&hl=en)
+* Principle of Communication Systems, [Dr. Ali Shahzadi](https://scholar.google.com/citations?user=GHJY61wAAAAJ&hl=en)
 * Probability and Statistics, [Prof. Ali Sharifi Zarchi](https://scholar.google.com/citations?user=GbJMZLIAAAAJ&hl=en)
 * Database Design, [Prof. Abbas Heydarnoori](https://scholar.google.com/citations?hl=en&user=s5vgK3kAAAAJ)
 * Operating Systems, [Prof. Hossein Asadi](https://scholar.google.com/citations?hl=en&user=fgNWK9YAAAAJ)
