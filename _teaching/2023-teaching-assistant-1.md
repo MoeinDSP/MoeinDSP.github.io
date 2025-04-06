@@ -12,5 +12,5 @@ location: "Semnan, Iran"
 I had the privilege of being a teaching assistant in the following courses:
 * Signals and Systems, [Prof. Pejman Rezaei](https://scholar.google.com/citations?user=kj6yG2YAAAAJ&hl=en)
 * Principle of Communication Systems, [Dr. Ali Shahzadi](https://scholar.google.com/citations?user=GHJY61wAAAAJ&hl=en)
-* Computer Programming, [Dr. Razieh Rastgoo](https://scholar.google.com/citations?user=zfvwqc0AAAAJ&hl=en) -->
+* Computer Programming, [Dr. Razieh Rastgoo](https://scholar.google.com/citations?user=zfvwqc0AAAAJ&hl=en)
 
