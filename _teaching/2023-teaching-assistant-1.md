@@ -2,7 +2,7 @@
 title: "Teaching Assistant at Semnan University"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-teaching-assistant-1
+# permalink: /teaching/2023-teaching-assistant-1
 venue: "Semnan University, Electrical and Computer Engineering Department"
 start_date: "2020" 
 end_date: "2022"
