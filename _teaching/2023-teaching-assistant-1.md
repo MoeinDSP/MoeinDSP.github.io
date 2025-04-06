@@ -4,7 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-teaching-assistant-1
 venue: "Semnan University, Electrical and Computer Engineering Department"
-date: 2020-2022
+start_date: "2020" 
+end_date: "2022"
 location: "Semnan, Iran"
 
 ---
