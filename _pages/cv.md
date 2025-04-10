@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Politecnico di Milano for Software systems (MPI-SWS), 2030 (expected)
-* M.S. in Computer Science, Saarland University, 2026 (expected)
-* B.S. in Computer Engineering, Sharif University of Technology, 2023
-* Diploma in Mathematics and Physics, National Organization for Development of Exceptional Talents (NODET), 2018
+<!-- * Ph.D in Computer Science, Politecnico di Milano for Software systems (MPI-SWS), 2030 (expected) -->
+* M.S. in Telecommunication Engineering (Major in Signals and Data Analysis), Politecnico di Milano (PoliMi), 2026 (expected)
+* B.S. in Electrical Engineering, Semnan University, 2023
+* Diploma in Mathematics and Physics, Governmental leading high schools, 2018
 
 Research Experience
 ======
