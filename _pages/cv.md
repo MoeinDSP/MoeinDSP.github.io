@@ -84,12 +84,10 @@ Teaching
 Academic Honors
 ======
 * Awarded a merit-based scholarship
-Admitted to Technical University of Darmstadt, Germany Erasmus Exchange student.
+Admitted to Technical University of Darmstadt Germany Erasmus Exchange student.
 * Awarded a merit-based scholarship
 Admitted to Universidad Politécnica de Madrid Erasmus Exchange student.
-* Ranked 2nd among 106 students, Talent student in faculty of Electrical and
-Computer Engineering, Semnan University Feb. 2023
-Issued by Vice-Chancellor of Academic and Graduate Studies of Semnan University.
+* Ranked 2nd among 106 students, Talent student in faculty of Electrical and Computer Engineering, Semnan University (Issued by Vice-Chancellor of Academic and Graduate Studies of Semnan University).
 * Accepted In the First Exam of Mathematics Olympiad
 
 Languages
