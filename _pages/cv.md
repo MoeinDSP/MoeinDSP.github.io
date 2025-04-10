@@ -83,16 +83,18 @@ Teaching
 
 Academic Honors
 ======
-* Gifted Student Award, Entrance exam waiver for graduate program, Sharif University of Technology
-* Membership In Iran’s National Elites Foundation 
-* Rank 51st In Mathematics and Physics B.Sc. entrance exam among more than 144,000 participants
+* Awarded a merit-based scholarship
+Admitted to Technical University of Darmstadt, Germany Erasmus Exchange student.
+* Awarded a merit-based scholarship
+Admitted to Universidad Politécnica de Madrid Erasmus Exchange student.
+* Ranked 2nd among 106 students, Talent student in faculty of Electrical and
+Computer Engineering, Semnan University Feb. 2023
+Issued by Vice-Chancellor of Academic and Graduate Studies of Semnan University.
 * Accepted In the First Exam of Mathematics Olympiad
 
 Languages
 ======
 * English
 * Persian
-* Turkish
-* German
 
 You can find my complete CV [here](http://moeindsp.github.io/files/CV.pdf).
