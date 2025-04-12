@@ -19,8 +19,7 @@ Education
 Research Experience
 ======
 * Research Assistant
-  * Sharif University of Technology, under supervision of [Prof. Mohammad Hossein Rohban](https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en), [Prof. Mahdieh Soleymani](https://scholar.google.com/citations?user=S1U0KlgAAAAJ&hl=en), [Dr. Ehsaneddin Asgari](https://scholar.google.com/citations?hl=en&user=lIVvIFsAAAAJ)
-  * Development of a multilingual large language model fine‑tuned for Persian
+  * Laboratory assistant in Smart Antenna Design laboratory under Supervision of  [Prof. Pejman Rezaei](https://scholar.google.com/citations?hl=en&user=kj6yG2YAAAAJ&view_op=list_works&sortby=pubdate)
 
 * Research Assistant
   * Sharif University of Technology, under supervision of [Dr. Ehsaneddin Asgari](https://scholar.google.com/citations?hl=en&user=lIVvIFsAAAAJ)
