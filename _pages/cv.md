@@ -19,10 +19,14 @@ Education
 Research Experience
 ======
 * Research Assistant
-  * Laboratory assistant in Smart Antenna Design laboratory under Supervision of  [Prof. Pejman Rezaei](https://scholar.google.com/citations?hl=en&user=kj6yG2YAAAAJ&view_op=list_works&sortby=pubdate)
+  * Laboratory assistant in Smart Antenna Design laboratory under Supervision of  [Prof. Pejman Rezaei](https://scholar.google.com/citations?hl=en&user=kj6yG2YAAAAJ&view_op=list_works&sortby=pubdate), applied machine learning models on data that extracted by smart antenna simulated and conducted at Ant-Lab.
 
 
-  * Laboratory assistant in digital communication laboratory under Supervision of [Dr. Ali Shahzadi](https://scholar.google.com/citations?user=GHJY61wAAAAJ&hl=en)
+  * Laboratory assistant in digital communication laboratory under Supervision of [Dr. Ali Shahzadi](https://scholar.google.com/citations?user=GHJY61wAAAAJ&hl=en), implemntation of machine learning models on FPGA boards
+
+
+  * Research Assistant: ICT Research Center, Ministry of ICT
+  * Accident Analysis and Prevention (Highway crash detection and risk estimation using deep learning) under the supervision of [Dr. Houman Zarrabi](https://scholar.google.ca/citations?user=fwtTUX0AAAAJ&hl=en)
 
   
 Work experience
