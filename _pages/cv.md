@@ -22,7 +22,7 @@ Research Experience
   * Laboratory assistant in Smart Antenna Design laboratory under Supervision of  [Prof. Pejman Rezaei](https://scholar.google.com/citations?hl=en&user=kj6yG2YAAAAJ&view_op=list_works&sortby=pubdate), applied machine learning models on data that extracted by smart antenna simulated and conducted at Ant-Lab.
 
 
-  * Laboratory assistant in digital communication laboratory under Supervision of [Dr. Ali Shahzadi](https://scholar.google.com/citations?user=GHJY61wAAAAJ&hl=en), implemntation of machine learning models on FPGA boards
+  * Laboratory assistant in digital communication laboratory under Supervision of [Dr. Ali Shahzadi](https://scholar.google.com/citations?user=GHJY61wAAAAJ&hl=en), implemntation of machine learning models on FPGA boards.
 
 
   * Research Assistant: ICT Research Center, Ministry of ICT:
