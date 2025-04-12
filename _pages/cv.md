@@ -21,9 +21,9 @@ Research Experience
 * Research Assistant
   * Laboratory assistant in Smart Antenna Design laboratory under Supervision of  [Prof. Pejman Rezaei](https://scholar.google.com/citations?hl=en&user=kj6yG2YAAAAJ&view_op=list_works&sortby=pubdate)
 
-* Research Assistant
-  * Sharif University of Technology, under supervision of [Dr. Ehsaneddin Asgari](https://scholar.google.com/citations?hl=en&user=lIVvIFsAAAAJ)
-  * Developing pipelines for low‑resource languages such as Azerbaijani, Luri, Yazdi, and Kurdi
+
+  * Laboratory assistant in digital communication laboratory under Supervision of [Dr. Ali Shahzadi](https://scholar.google.com/citations?user=GHJY61wAAAAJ&hl=en)
+
   
 Work experience
 ======
