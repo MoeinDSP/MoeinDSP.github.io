@@ -58,8 +58,8 @@ Skills
 Research Interests
 ======
 * Large Language Models
+* AI-Agents 
 * Natural Language Processing
-* AI applications in healthcare
 * Deep Learning
 
 Publications
