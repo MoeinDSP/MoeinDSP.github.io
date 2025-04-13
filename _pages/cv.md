@@ -29,7 +29,7 @@ Research Experience
   Accident Analysis and Prevention (Highway crash detection and risk estimation using deep learning) under the supervision of [Dr. Houman Zarrabi](https://scholar.google.ca/citations?user=fwtTUX0AAAAJ&hl=en)
 
   
-Work experience
+<!-- Work experience
 ======
 * Junior Data Scientist
   * Zarebin, Tehran, Iran
@@ -41,7 +41,7 @@ Work experience
 
 * Undergraduate Student Internship
   * AIMedic, Tehran, Iran
-  * Eye Disease Diagnosis using Deep Learning methods
+  * Eye Disease Diagnosis using Deep Learning methods -->
   
 Skills
 ======
